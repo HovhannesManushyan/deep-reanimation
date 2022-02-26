@@ -7,4 +7,4 @@ The results from the script can be seen in the following video report.
 
 https://user-images.githubusercontent.com/83528688/155857316-e8115646-a859-4f17-b5b2-7284e963398d.mp4
 
-Kudos to the wonderful results from which made this model possible [Siarohin, et al.](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+Kudos to the wonderful results from [Siarohin, et al.](https://aliaksandrsiarohin.github.io/first-order-model-website/) which made this model possible.
